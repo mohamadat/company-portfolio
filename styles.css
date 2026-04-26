@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+}
+
+.nav-flex {
+    display: flex;
+    justify-content: space-between;
+    height: 2.5rem;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 40vw;
+}
+
+
+body {
+    border: 3px black solid;
+
+}
+
+nav {
+    border: 3px black solid;
+}
+
+header {
+    border: 3px black solid;
+
+
+}
+
+#services {
+    border: 3px black solid;
+
+}
